@@ -145,16 +145,18 @@ public class MainActivity extends AppCompatActivity {
         </activity>
     </application>
 
-</manifest>
+</manifest>![Screenshot 2024-09-17 194637](https://github.com/user-attachments/assets/3e17ead9-eb04-43f3-b6e5-10ddd1dae911)
+
 ```
 
-## OUTPUT
 
 
+## OUTPUT:
 
-![MAD Exp_5(1_](https://github.com/user-attachments/assets/5297af8e-4314-4631-8fbd-d16376d524b9)
+![image](https://github.com/user-attachments/assets/fc6194d0-2547-4b2b-b77f-be7c2d0b2899)
+![image](https://github.com/user-attachments/assets/25f9c3b7-d55d-4138-8027-752d06507e34)
 
-![MAD Exp_5(2)](https://github.com/user-attachments/assets/6bac9f90-3065-49f5-807a-8b6fff8d6ffd)
+
 
 
 ## RESULT
